@@ -21,3 +21,12 @@ button{
 .sidebar .production{
     padding-bottom: 50px;
 }
+.display{
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 40px;
+}
+.display, .form{
+    text-align: center;
+    padding-top: 150px;
+}
