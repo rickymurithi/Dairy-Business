@@ -1,5 +1,7 @@
-*{
-    background-imag
+body{
+    background-image: url(./images/dairyfarm.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .navbar{
     text-align: center;
@@ -12,7 +14,7 @@
     font-size: 28px;
 }
 button{
-    background-color: blue;
+    background-color: rgb(255, 136, 0);
     font-size: 40px;
     border-radius: 10px;
 }
