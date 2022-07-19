@@ -1,0 +1,21 @@
+*{
+    background-imag
+}
+.navbar{
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    padding-bottom: 150px;
+}
+.sidebar{
+    text-align: center;
+    font-size: 28px;
+}
+button{
+    background-color: blue;
+    font-size: 40px;
+    border-radius: 10px;
+}
+.sidebar .production{
+    padding-bottom: 50px;
+}
