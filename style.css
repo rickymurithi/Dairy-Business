@@ -20,6 +20,8 @@ body{
     box-shadow: 20px;
     background-color: orange;
     border-radius: 30px;
+    max-width: 1300px;
+    margin-left: 250px;
 }
 .farm p{
     font-size: 24px;
